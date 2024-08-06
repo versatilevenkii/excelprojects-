@@ -50,5 +50,5 @@ Delivery success rates are high, contributing positively to overall profitabilit
 Maharashtra is the leading state in terms of sales volume, suggesting a concentrated customer base in this region.
 This Sales Analysis Dashboard provides valuable insights that can drive strategic decisions, enhance sales performance, and improve customer satisfaction for businesses operating in the Indian market.
 
-Tags: #SalesAnalysis #DataDashboard #BusinessIntelligence #DataVisualization #GenderAnalysis #Ecommerce #Amazon #Flipkart #CustomerInsights #DeliveryPerformance #IndianMarket #Maharashtra #DataPreprocessing #Profitability #SalesTrends #BusinessAnalytics #DataScience #MarketResearch #CustomerBehavior #SalesPerformance
+
 
